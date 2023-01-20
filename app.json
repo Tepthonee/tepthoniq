@@ -60,7 +60,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
-      "value": "https://github.com/rick1128/rickf",
+      "value": "https://github.com/Tepthonee/rickf",
       "required": false
     }
   },
